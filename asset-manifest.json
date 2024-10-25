@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a014c3a6.css",
+    "main.js": "/static/js/main.92d53a84.js",
+    "static/media/Iphone-green.png": "/static/media/Iphone-green.7df7a9f7e93ff949d2ea.png",
+    "static/media/iPhone 13 Pro.png": "/static/media/iPhone 13 Pro.d9569ea24832faca6171.png",
+    "static/media/Montserrat-Arabic-SemiBold.ttf": "/static/media/Montserrat-Arabic-SemiBold.0ca64cbc26c9272242c3.ttf",
+    "static/media/Montserrat-Arabic-Bold.ttf": "/static/media/Montserrat-Arabic-Bold.2e325afa60a9c8a05b10.ttf",
+    "static/media/Montserrat-Arabic-Medium.ttf": "/static/media/Montserrat-Arabic-Medium.14837276682f8d79fe40.ttf",
+    "static/media/Montserrat-Arabic-Light.ttf": "/static/media/Montserrat-Arabic-Light.fc83d64fd999a1fd8b9e.ttf",
+    "static/media/Montserrat-Arabic-Regular.ttf": "/static/media/Montserrat-Arabic-Regular.e2e3969ab717e5ff576f.ttf",
+    "index.html": "/index.html",
+    "main.a014c3a6.css.map": "/static/css/main.a014c3a6.css.map",
+    "main.92d53a84.js.map": "/static/js/main.92d53a84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a014c3a6.css",
+    "static/js/main.92d53a84.js"
+  ]
+}
